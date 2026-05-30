@@ -1,6 +1,6 @@
 {
-  "version": "v1.0.6",
-  "apk_url": "https://github.com/AayushPaigwar/meetio-public-release/releases/download/v1.0.6/app-release.apk",
+  "version": "v1.0.7",
+  "apk_url": "https://github.com/AayushPaigwar/meetio-public-release/releases/download/v1.0.7/app-release.apk",
   "force_update": false,
   "changelog": [
     "Bug fixes",
