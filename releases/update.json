@@ -3,7 +3,7 @@
   "apk_url": "https://github.com/AayushPaigwar/meetio-public-release/releases/download/meetio_checkin-v1.0.12/app-release.apk",
   "force_update": false,
   "changelog": [
-    "Fixed ManualCheckin Issue",
+    "Fixed Manual Checkin Issue",
     "Fixed Checkin Percentage Indicator"
   ]
 }
